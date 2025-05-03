@@ -49,7 +49,7 @@ Conclusion
 Each pathfinding algorithm discussed here has its own strengths and weaknesses. The choice of algorithm depends on the specific requirements of your project. BFS and DFS are useful for simpler scenarios, while A* and Dijkstra's Algorithm provide more sophisticated solutions for weighted graphs. Consider your project's needs, the nature of the graph, and the computational resources available when selecting the appropriate algorithm.
 
 
-![MAP](Final/Python_Connection_final/Detailed_map.png
+![MAP](Final/Python_Connection_final/Detailed_map.png)
 --
 ## File Structure
 

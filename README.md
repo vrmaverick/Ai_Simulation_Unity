@@ -47,3 +47,33 @@ Doesn't consider heuristics, which might lead to suboptimal paths.
 Conclusion
 
 Each pathfinding algorithm discussed here has its own strengths and weaknesses. The choice of algorithm depends on the specific requirements of your project. BFS and DFS are useful for simpler scenarios, while A* and Dijkstra's Algorithm provide more sophisticated solutions for weighted graphs. Consider your project's needs, the nature of the graph, and the computational resources available when selecting the appropriate algorithm.
+
+
+![MAP](Final/Python_Connection_final/Detailed_map.png
+--
+## File Structure
+
+--
+```
+  /Final 
+  |- Python Connections Final
+      |---a_star.py # Applying A* algorithm
+      |---connection.py # It acts as a conncetion point between Unity and Python using Sockets
+      |---notify.py # It notfies the user via email or sms
+      |---pdf.py # Genrates the PDF of dynamic template
+      |---send_mail.py # Uses API to send Emails
+      |---test.py # For Testing without Unity
+      |---ui.py # tkinter UI
+      |---qr.jpeg # My UPI QR code for Payment :) Buy me a Coffee
+      |---invoice.html # Template for dynamic Invoice
+      |---Detailed_map.png # Unity Map used for demo
+  |- BotController.cs # C# file used by the agent in Unity
+  BFS_DFS_A*_DJASTRA.py # Testing the algorithm
+  mini_report.pdf # Report to refer for this project
+```
+--
+## Contact 
+Feel Free to Contact me regarding any Queries
+[Portfolio](https://vedant-ranade.netlify.app/)
+[vedantranade2612@gmail.com](vedantranade2612@gmail.com)
+[LinkdIn](https://www.linkedin.com/in/vedant-ranade-683867271/)
